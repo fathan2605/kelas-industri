@@ -1,2 +1,2 @@
-# kelas-industri
+# Getting Started
 This is Next.js
